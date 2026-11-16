@@ -117,10 +117,10 @@ Project:
    Module: FTOptix.AuditSigning.Net
    Version: 1.1
  Statistics:
-  TotalNodeCount: 14359
+  TotalNodeCount: 14361
   Objects: 3038
   ObjectTypes: 79
-  Variables: 11204
+  Variables: 11206
   VariableTypes: 0
   DataTypes: 0
   Methods: 38
