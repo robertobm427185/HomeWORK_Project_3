@@ -1,0 +1,10 @@
+Name: Groups
+Id: g=33ac98afcbbcd645bc8146197074cc43
+Type: GroupsCategoryFolder
+Children:
+- Name: TeamOperators
+  Id: g=f710408a72bcb28df03eba1bc8d2f508
+  Type: GroupType
+- Name: TeamMaintenance
+  Id: g=151a2f6d0d14dc903a41c20f93f4922f
+  Type: GroupType

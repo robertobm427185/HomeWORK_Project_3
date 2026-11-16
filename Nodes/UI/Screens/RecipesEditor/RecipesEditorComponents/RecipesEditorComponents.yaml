@@ -1,0 +1,5 @@
+Name: RecipesEditorComponents
+Type: FolderType
+Children:
+- File: RecipeListViewRow/RecipeListViewRow.yaml
+- File: RecipeEditListViewRow/RecipeEditListViewRow.yaml
